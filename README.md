@@ -1,13 +1,16 @@
-# Coinbase Samples homebrew-tap
+# Coinbase Samples Homebrew Tap
 
 Homebrew formulae that allows for the isntallation of Coinbase Samples tools through the [Homebrew](https://brew.sh/) package manager.
 
 ## Installation
 
 ```
-brew tap coinbase-samples/tap
+brew tap coinbase-samples/homebrew-tap
 brew install <FORMULA>
 ```
+
+ brew tap coinbase-samples/homebrew-tap .
+ 1035  brew install prime-cli
 
 ## License
 
