@@ -22,7 +22,7 @@ The application and code are only available for demonstration purposes.
 
 | Repository | Formula | Description |
 | ---------- | ------- | ----------- |
-| [prime-cli](https://github.com/coinbase-samples/prime-cli) | [formula](Formula/prime-cli.rb) | Build, release and operate production ready containerized applications on Amazon ECS |
+| [prime-cli](https://github.com/coinbase-samples/prime-cli) | [formula](Formula/prime-cli.rb) | The Prime CLI utility for the REST endpoints |
 
 ## Documentation
 
