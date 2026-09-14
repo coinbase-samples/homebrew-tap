@@ -1,10 +1,10 @@
 class PrimeCli < Formula
   desc "Coinbase Prime command-line interface (CLI) "
   homepage "https://github.com/coinbase-samples/prime-cli"
-  url "https://github.com/coinbase-samples/prime-cli/archive/refs/tags/v0.5.1.tar.gz"
-  sha256 "1cc3f65a30d31c34b449afe227a92358be93c0a54425b144ecd89b66b4ddfda8"
+  url "https://github.com/coinbase-samples/prime-cli/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "7a89e447d242f64359e1fb31bb3b7140da08334112230d78581c09f895c7fa30"
   license "Apache-2.0"
-  version "0.5.1"
+  version "0.6.0"
 
   depends_on "go" => :build
 
